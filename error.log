@@ -1,0 +1,22 @@
+2023-10-20 10:48:10,516 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:48:11,841 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\newbiztech\settings.py changed, reloading.
+2023-10-20 10:48:12,564 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:48:34,214 INFO django.server "POST /api/users/ HTTP/1.1" 201 7294
+2023-10-20 10:48:39,179 INFO django.server "GET /api/users/ HTTP/1.1" 200 10040
+2023-10-20 10:50:09,389 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:09,950 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:12,468 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:13,007 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:15,386 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:15,876 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:21,531 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:22,090 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:25,522 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:26,091 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:28,514 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:29,004 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:33,574 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:34,104 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:37,579 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\attendance\views.py changed, reloading.
+2023-10-20 10:50:38,061 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-10-20 10:50:51,264 INFO django.utils.autoreload C:\Users\rishi\Desktop\NewBizTech\newbiztech\newbiztech\settings.py changed, reloading.
